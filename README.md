@@ -1,5 +1,5 @@
-###Hello app
-##Dołącz do tworzenia projektu...
+### Hello app
+## Dołącz do tworzenia projektu...
 __Zainstalować GIT-a__
 `sudo apt-get install GIT`
 __Następnie wprowadzić swoje dane:__
