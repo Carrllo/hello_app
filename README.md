@@ -1,4 +1,4 @@
-### Hello app
+﻿### Hello app
 
 ## Dołącz do tworzenia projektu...
 
@@ -11,3 +11,8 @@ __Następnie wprowadzić swoje dane:__
 
 __Podłącz się pod repozytorium:__<br/>
 `git remote add origin https://github.com/MrSpy0x22/hello_app.git`<br/>
+
+__Pobierz najnowszą wersję z gałęzi "master"__
+`git pull origin master`<br/>
+Możesz sprawdzić czy wszystko się pobrało wpisując: `ls`<br/>
+Możesz sprawdzić stan plików: `git status` `git checkout`
