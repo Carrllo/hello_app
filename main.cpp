@@ -18,6 +18,12 @@ int main(int argc , char** argv)
 			cout << "Koniec pracy!\n";
 			break;
 		}
+		// HELP
+		else if (cmd_str == "help")
+		{
+			cout << "Obslugiwane polecenia:\n\texit\n\thelp\n\n";
+		}
+
 	}
 	
 	return 0;
