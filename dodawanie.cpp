@@ -19,5 +19,4 @@ int dodawanie()
 
 	c = a+b;
 	cout << endl <<  "Suma A(" << a << ") i B(" << b << ") wynosi: " << c; 
-
 }
