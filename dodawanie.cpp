@@ -5,9 +5,7 @@ using namespace std;
 int dodawanie()
 {
 
-	int a;
-	int b;
-	int c;
+	float a,b,c;
 	cout <<"Liczenie sumy dwóch liczb" << endl;
 	cout << "Podaj liczbę A: ";
 		cin >> a;
@@ -15,6 +13,6 @@ int dodawanie()
 		cin >> b;
 
 	c = a+b;
-	cout << endl <<  "Sumy tych Liczb wynosi: " << c; 
+	cout << endl <<  "Suma tych Liczb wynosi: " << c; 
 
 }
