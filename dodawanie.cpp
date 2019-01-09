@@ -1,0 +1,6 @@
+dodawanie()
+{
+
+//pusta funkcja
+
+}
