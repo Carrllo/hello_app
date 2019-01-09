@@ -14,7 +14,7 @@ cin >> a;
 cout <<"Podaj liczbę B: ";
 cin >> b;
 
-
-
+c = a+b;
+cout << "suma wynosi :" << c; 
 
 }
