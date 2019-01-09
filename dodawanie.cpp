@@ -1,6 +1,10 @@
-dodawanie()
+int dodawanie()
 {
 
-//pusta funkcja
+int a;
+int b;
+int c;
+
+
 
 }
