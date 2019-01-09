@@ -23,8 +23,14 @@ int main(int argc , char** argv)
 		{
 			cout << "Obslugiwane polecenia:\n\texit\n\thelp\n\n";
 		}
-
+		// CONSTANTS
+		else if (cmd_str == "consts")
+		{
+			cout << "PI = " << PI << endl;
+			cout << "E = " << EULER << endl;
+			cout << "GRAVITY (NORM)" << GRAVITY_N << endl;
+			cout << endl << endl;
+		}
 	}
-	
 	return 0;
 }
