@@ -1,10 +1,13 @@
 #include <iostream>
 #include <string>
+
+#include "constants.h"
+
 using namespace std;
 int main(int argc , char** argv)
 {
 	cout << "Prosty kalkulator - 2019 :)\n"
-			  << "===========================\n\n";
+	     << "===========================\n\n";
 
 	string cmd_str;
 	while (true)
@@ -25,6 +28,5 @@ int main(int argc , char** argv)
 		}
 
 	}
-	
 	return 0;
 }
